@@ -37,15 +37,7 @@ A sine wave with amplitude 1, frequency 5 Hz and duration 1 second, with a title
 ## Task 5: Save Figures
 The script saves `frequency_comparison.png`, `amplitude_comparison.png` and `clean_vs_noisy_signal.png` using `saveas`.
 
-## Task 6: Use AI Responsibly
 
-**AI Tool Used:** Claude
-
-**Prompt:**
-I pasted the full assignment text (Tasks 1 to 6) and asked Claude to guide me step by step in MATLAB Online. Later I pasted my own script style (using `Fs`, `t`, and `saveas`) and asked for code like it that shows all the figures and saves all the images.
-
-**What AI Suggested:**
-Claude suggested a MATLAB script that generates the 5 Hz sine wave, three frequency signals (2, 5, 10 Hz) and three amplitude signals (0.5, 1, 2) displayed with subplots, and a clean vs noisy signal using `randn`. It also suggested saving each figure with `saveas`, and gave steps for the README and the GitHub upload.
 
 **Did the code work immediately?**
 [EDIT THIS LINE: write Yes or No. If there was an error, write what it was and how you fixed it.]
